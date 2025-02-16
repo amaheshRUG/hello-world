@@ -1,2 +1,2 @@
 # hello-world
-type "This repository is for practicing the GitHub Flow."
+add a sentence like “Physics and machine learning are fun!”
